@@ -41,7 +41,7 @@ class QuestionViewController: UIViewController {
     }
     
     func configureQuestion(){
-        
+        //news
     }
     
     
